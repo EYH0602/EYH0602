@@ -13,3 +13,6 @@
   * [Github](https://github.com/EYH0602)
 * ⚡ Fun fact: Although I claim to be a vimer, my real preffered editor is vscode with the vim plugin :).
 * Haskell is beautiful!
+
+![README Stats](https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true)
+

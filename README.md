@@ -4,15 +4,16 @@
 **EYH0602/EYH0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-* 🔭 I’m currently working on service-end calculation platform with go and python.
-* 🌱 I’m currently learning Machine Learning on Data and Category Theory (got interested after Modern Algebra).
 * 📫 How to reach me: 
   * yfhe@ucdavis.edu
-  * heyifeng.62@bytedance.com
+  * ~~heyifeng.62@bytedance.com~~ no longer available
   * [Blog](https://eyh0602.github.io)
   * [Github](https://github.com/EYH0602)
-* ⚡ Fun fact: Although I claim to be a vimer, my real preffered editor is vscode with the vim plugin :).
-* Haskell is beautiful!
+
+![Wakatime stats](https://wakatime.com/share/@eeeh/203776e4-e18e-49b7-ac88-cc7a1c3eed3f.svg)
+
+<!-- ![Wakatime editor status](https://wakatime.com/share/@eeeh/050d5950-4067-44da-b21b-4a056884c3dd.svg) -->
 
 ![README Stats](https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true)
 
+![ViewCount](https://komarev.com/ghpvc/?username=EYH0602)

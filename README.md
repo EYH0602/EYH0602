@@ -16,4 +16,4 @@
 
 ![README Stats](https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true)
 
-![ViewCount](https://komarev.com/ghpvc/?username=EYH0602)
+<!-- ![ViewCount](https://komarev.com/ghpvc/?username=EYH0602) -->

@@ -10,7 +10,7 @@
   * [Blog](https://eyh0602.github.io)
   * [Github](https://github.com/EYH0602)
 
-![Wakatime stats](https://wakatime.com/share/@eeeh/203776e4-e18e-49b7-ac88-cc7a1c3eed3f.svg)
+<!-- ![Wakatime stats](https://wakatime.com/share/@eeeh/203776e4-e18e-49b7-ac88-cc7a1c3eed3f.svg) -->
 
 <!-- ![Wakatime editor status](https://wakatime.com/share/@eeeh/050d5950-4067-44da-b21b-4a056884c3dd.svg) -->
 

@@ -6,7 +6,7 @@
 
 * 📫 How to reach me: 
   * yfhe@ucdavis.edu
-  * ~~heyifeng.62@bytedance.com~~ no longer available
+  * yfhe.prsn@gmail.com
   * [Blog](https://eyh0602.github.io)
   * [Github](https://github.com/EYH0602)
 

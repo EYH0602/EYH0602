@@ -10,7 +10,7 @@ double major in Applied Math and Computer Science.
 I'm also a incoming Ph. D. student at UC Davis starting Fall 2023.
 My current study interests includes Program Analysis, Type Theory & analysis,
 fuzzing and property-based testing.
-I also do research on the application of program analysis and soft engineering on/for LLM code semantics understanding.
+I also do research on the application of program analysis and software engineering on/for LLM code semantics understanding.
 Currently, I am the president of [HackerHub](https://hackerhub-ucdavis.github.io/)(UCDavis Club).
 
 - 📫 How to reach me:

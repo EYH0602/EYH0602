@@ -19,8 +19,8 @@ Currently, I am the president of [HackerHub](https://hackerhub-ucdavis.github.io
   - [Blog](https://eyh0602.github.io)
   - [Github](https://github.com/EYH0602)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EYH0602&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook,html" alt="EYH0602" /></p>
+[![Top Langs](<https://github-readme-stats.vercel.app/api/top-langs/?username=EYH0602&hide=Jupyter Notebook,html&layout=compact>)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true&locale=en" alt="EYH0602" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true&locale=en" alt="EYH0602" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EYH0602" alt="EYH0602" /></p>

@@ -19,10 +19,8 @@ Currently, I am the president of [HackerHub](https://hackerhub-ucdavis.github.io
   - [Blog](https://eyh0602.github.io)
   - [Github](https://github.com/EYH0602)
 
-<!-- ![Wakatime stats](https://wakatime.com/share/@eeeh/203776e4-e18e-49b7-ac88-cc7a1c3eed3f.svg) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EYH0602&show_icons=true&locale=en&layout=compact&hide=jupyter notebook,html" alt="EYH0602" /></p>
 
-<!-- ![Wakatime editor status](https://wakatime.com/share/@eeeh/050d5950-4067-44da-b21b-4a056884c3dd.svg) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true&locale=en" alt="EYH0602" /></p>
 
-<!-- ![README Stats](https://github-readme-stats.vercel.app/api?username=EYH0602&show_icons=true) -->
-
-<!-- ![ViewCount](https://komarev.com/ghpvc/?username=EYH0602) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EYH0602" alt="EYH0602" /></p>

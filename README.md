@@ -5,13 +5,12 @@
 -->
 
 My name is 贺一峰 (He, Yifeng).
-I am an undergrad student at [UC Davis](https://www.ucdavis.edu),
+I'm  a Ph.D. student at UC [UC Davis](https://www.ucdavis.edu).
+My current study interests include Program Analysis, Type Theory & Analysis,
+Dynamic Software Testing, and Machine Learning for Code Understanding.
+I was an undergrad student at UC Davis,
 double major in Applied Math and Computer Science.
-I'm also a incoming Ph. D. student at UC Davis starting Fall 2023.
-My current study interests includes Program Analysis, Type Theory & analysis,
-fuzzing and property-based testing.
-I also do research on the application of program analysis and software engineering on/for LLM code semantics understanding.
-Currently, I am the president of [HackerHub](https://hackerhub-ucdavis.github.io/)(UCDavis Club).
+During undergrad, I was the president of [HackerHub](https://hackerhub-ucdavis.github.io/)(UCDavis Club).
 
 - 📫 How to reach me:
   - yfhe@ucdavis.edu

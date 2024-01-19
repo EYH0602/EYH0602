@@ -6,7 +6,7 @@
 
 My name is 贺一峰 (He, Yifeng).
 I'm  a Ph.D. student at UC [UC Davis](https://www.ucdavis.edu).
-My current study interests include Program Analysis, Software Testing, Programming Languages, and Machine Learning for Code Understanding/Generation.
+My current study interest is neural program analysis, which includes program analysis, testing, programming languages, and machine learning for code understanding/generation.
 I was an undergrad student at UC Davis,
 double major in Applied Math and Computer Science.
 During undergrad, I was the president of [HackerHub](https://hackerhub-ucdavis.github.io/)(UCDavis Club).
